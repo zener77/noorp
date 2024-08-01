@@ -1,7 +1,6 @@
-print("noor's big dick machine")
-print ("bye bye noorie poorie")
+print("machine")
+print ("bye bye")
 a = 100
 b = 1000
-p = 1000
-c = a*b*p
+c = a*b
 print(c)
